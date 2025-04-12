@@ -20,5 +20,11 @@ ipython_config.py
 !IlyasovIA.pdf   
 # Ilyasov
 
+# Ignore bin and obj directories
+bin/
+obj/
+*/bin/*
+*/obj/*
+
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
