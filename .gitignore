@@ -17,8 +17,8 @@ ipython_config.py
 
 # Ignore all PDF files
 *.pdf   
-
-# Ильясов
+!IlyasovIA.pdf   
+# Ilyasov
 
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
