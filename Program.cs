@@ -9,4 +9,8 @@
     }
 }//Ильясов Ильнар Айратович Ам-1-24
 //new_feature
+
 //solve task3
+
+//solve task4
+
